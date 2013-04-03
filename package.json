@@ -1,9 +1,7 @@
 {
-	"name": "Substrate",
-	"version": "1.0.0",
-	"scripts": {
-		"start": "node app"
-	},
+	"name": "substrate",
+	"author": "Dessix <Dessix@D6Gaming.net>",
+	"version": "1.0.1",
 	"dependencies": {
 		"underscore": "*",
 		"should": "*"
